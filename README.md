@@ -4,7 +4,7 @@ This is a Web Scrapper made using Python and the libraries BeautifulSoup4 & requ
 ## How it works??
 This project uses the library BeautifulSoup to parset the html document of a website and stores it an object. From this object it's form where we will scrappe the information we need. 
 
-The goal of this project is to help us get information of apartments found on the web site "clasificadosonline.com"(www.clasificadosonline.com) and store it on a csv file. 
+The goal of this project is to help us get information of apartments found on the web site <clasificadosonline.com> (www.clasificadosonline.com) and store it on a csv file. 
 
 ## How to run it:
 1. Download the source code.
