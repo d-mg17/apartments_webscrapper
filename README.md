@@ -1,5 +1,5 @@
 # WebScraper using BeautifulSoup4
-This is a Web Scrapper made using Python and the libraries BeautifulSoup4 & requests with the goal of finding apartments for rent in Puerto Rico depending of your area of choice {Metro, Centro}, with details about them like address, size and monthly rent. The result given are only the ones found on the first page of the search.
+This is a Web Scrapper made using Python and the libraries BeautifulSoup4 & requests with the goal of finding apartments for rent in Puerto Rico depending of your area of choice {Metro, Centro, Este, Sur, Norte} with details about them like address, size and monthly rent. The result given are only the ones found on the first page of the search.
 
 ## How it works??
 This project uses the library BeautifulSoup to parset the html document of a website and stores it an object. From this object it's form where we will scrappe the information we need. 
